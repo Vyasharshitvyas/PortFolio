@@ -162,12 +162,12 @@ hr {
   margin: 0;
 }
 .facebook:hover,
-.twitter:hover,
+.github:hover,
 .linkedin:hover {
   background: #202020;
 }
 .facebook { background: #3b5998; }
-.twitter { background: #55acee; }
+.github { background: #55acee; }
 .linkedin { background: #cc2127; }
 .media {
   padding: 80px 40px 80px 40px;
